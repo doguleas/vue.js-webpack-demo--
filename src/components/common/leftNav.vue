@@ -21,6 +21,10 @@
             <i class="icon iconfont icon-zuanshi"></i>
             <div>统计</div>
         </li>
+        <li>
+            <i class="icon iconfont icon-zuanshi"></i>
+            <div>ss</div>
+        </li>
     </ul>
 </div>
 </template>
